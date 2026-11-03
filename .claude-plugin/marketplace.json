@@ -1,0 +1,14 @@
+{
+  "name": "mael-local",
+  "description": "Marketplace locale du mode chef d'orchestre",
+  "owner": {
+    "name": "Maël Brunetière"
+  },
+  "plugins": [
+    {
+      "name": "orchestrateur",
+      "source": "./",
+      "description": "Mode chef d'orchestre multi-agents"
+    }
+  ]
+}

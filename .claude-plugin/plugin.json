@@ -1,0 +1,10 @@
+{
+  "name": "orchestrateur",
+  "version": "0.4.4",
+  "description": "Mode chef d'orchestre : /chef planifie et délègue à des workers Haiku/Sonnet/Opus, journal events.jsonl tenu par des hooks, garde-fou de modèle, rapport final par script.",
+  "author": {
+    "name": "Maël Brunetière"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/orchestrateur-hooks.json"
+}
